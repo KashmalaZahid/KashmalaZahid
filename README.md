@@ -1,9 +1,9 @@
-Hi, I'm Kashmala 👋
-🎓 Computer Engineering Student
-💻 Python Developer
-🤖 Interested in AI and Machine Learning
-🔐 Passionate about Cybersecurity
-🚀 Building innovative AI solutions
+Hi, I'm Kashmala 👋 <br>
+🎓 Computer Engineering Student <br>
+💻 Python Developer <br>
+🤖 Interested in AI and Machine Learning <br>
+🔐 Passionate about Cybersecurity <br>
+🚀 Building innovative AI solutions <br>
 <br>
 Skills:
 <br>
