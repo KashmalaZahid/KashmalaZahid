@@ -1,4 +1,4 @@
-Hi, I'm Kashmala 👋 
+Hi, I'm Kashmala 👋 <br>
 🎓 Computer Engineering Student <br>
 💻 Python Developer <br>
 🤖 Interested in AI and Machine Learning <br>
