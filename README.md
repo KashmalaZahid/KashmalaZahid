@@ -8,7 +8,8 @@ Hi, I'm Kashmala 👋
 <br>
 Skills:
 - Python
-- Git & GitHub
-- HTML/CSS
-- Basic JavaScript
-- AI APIs
+<br>
+- Git & GitHub <br>
+- HTML/CSS <br>
+- Basic JavaScript <br>
+- AI APIs <br>
